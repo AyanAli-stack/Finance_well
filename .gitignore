@@ -1,0 +1,6 @@
+venv/
+finance.db
+finance_data.csv
+.streamlit/secrets.toml
+__pycache__/
+
